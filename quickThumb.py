@@ -69,7 +69,6 @@ class Thumbnail_Crapper:
 			#canvas.multiline_text((10,10), phrase, font=self.font, fill=(0, 0, 0))
 
 			if drawEmojis:
-				print('wetback')
 				randEmoji = random.choice([char for char in self.emojisShitters])
 				d.text((200, 200), randEmoji, font=self.unicodeFont, fill=black)
 
