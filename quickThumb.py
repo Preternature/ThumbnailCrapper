@@ -188,8 +188,6 @@ class Thumbnail_Crapper:
 
 if __name__ == '__main__':
 
-	moviesLoc = R'A:\Source'
-	moviesLoc = R'R:\tushyNetwork'
 	moviesLoc = R'C:\Users\Woody\Desktop\stupidTests'
 	snapshotLoc = R'C:\Users\Woody\Desktop\temp'
 	fontLoc = R'C:/Windows/Fonts'
